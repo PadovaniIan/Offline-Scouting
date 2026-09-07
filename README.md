@@ -4,6 +4,10 @@
 This guide covers everything you need to install and use the app.
 No programming knowledge required - just follow the steps in order.
 
+frc_scouting_app_XXXX.zip is the full app with all of the python files you may need. The only other files you may need are printer drivers.
+
+skewdist.zip is a python library that is unique from the app. It is meant for people that want to use the skew distribution method but don't care for the rest of the app's code. For example, if someone wanted to build their own scouting system but wanted my distribution creator. 
+
 
 
 STEP 1: INSTALL PYTHON (one-time setup)
