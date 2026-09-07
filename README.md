@@ -5,7 +5,7 @@ This guide covers everything you need to install and use the app.
 No programming knowledge required - just follow the steps in order.
 
 
-----------------------------------------------------
+
 STEP 1: INSTALL PYTHON (one-time setup)
 ----------------------------------------------------
 
