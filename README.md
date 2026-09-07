@@ -29,7 +29,7 @@ To check if Python is already installed, open a terminal
 If you see a version number of 3.11 or higher, you're already set.
 
 
-----------------------------------------------------
+
 STEP 2: GET THE APP FOLDER READY
 ----------------------------------------------------
 
@@ -39,12 +39,14 @@ STEP 2: GET THE APP FOLDER READY
   3. Navigate into the folder. For example, if it's on your Desktop:
 
        WINDOWS:   cd Desktop\frc_scouting_app
+     
        MAC:       cd Desktop/frc_scouting_app
 
-  4. Install the one thing the app needs (matplotlib, for the charts)
+  5. Install the one thing the app needs (matplotlib, for the charts)
      by typing:
 
        WINDOWS:   pip install -r requirements.txt
+     
        MAC:       pip3 install -r requirements.txt
 
      This only needs to be done once. It requires an internet
@@ -52,7 +54,7 @@ STEP 2: GET THE APP FOLDER READY
      never uses the internet.
 
 
-----------------------------------------------------
+
 STEP 3: OPEN THE APP
 ----------------------------------------------------
 
@@ -79,7 +81,7 @@ TIP (optional): You can make this easier by creating a shortcut:
     After that, double-click "Open App.command" to launch the app.
 
 
-----------------------------------------------------
+
 STEP 4: USING THE APP
 ----------------------------------------------------
 
@@ -115,7 +117,7 @@ RECALCULATING:
   can force a refresh with Data menu -> "Recalculate Now".
 
 
-----------------------------------------------------
+
 STEP 5: PRINTING MATCH RESULTS (optional)
 ----------------------------------------------------
 
@@ -135,7 +137,7 @@ If no printer is selected yet, the app will prompt you to pick one
 automatically the first time you click Print Results.
 
 
-----------------------------------------------------
+
 TROUBLESHOOTING
 ----------------------------------------------------
 
